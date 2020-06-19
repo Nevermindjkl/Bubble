@@ -1,0 +1,72 @@
+{
+    "AuroraDataStore": {
+        "VerifiedUsers": {
+          "RobloxId":{
+              "Username":"",
+              "RobloxUserId":"",
+              "DiscordUserId":""
+          }
+
+        },
+        "Servers": {
+          "ServerId": {
+              "ServerSettings": {
+                "Prefix":"!",
+                "Channels": {
+                    "GeneralLogsId":"",
+                    "VerificationLogsId":"",
+                    "ChatLogsId":"",
+                    "MusicLogsId":"",
+                    "RankingLogsId":""
+                },
+                "OwnerId":"",
+                "Premium": false
+              },
+
+              "ServerRobloInfo": {
+                "GroupId":"0000",
+                "GroupName":"0000",
+                "GroupOwner":"UserId"
+              },
+
+              "ServerModerators": {
+                "DiscordId": {
+                    "UserRole":"Moderator",
+                    "UserId":"0000"
+                },
+                "DiscordId2": {
+                    "UserRole":"Owner",
+                    "UserId":"0000"
+                }
+
+              },
+
+              "ServerModeration": {
+                  "Warnings": {
+                      "DiscordId": {
+                          "UserId":"0000",
+                          "UserWarnings": {
+                              "1": {
+                                  "WarningId":"1",
+                                  "WarningReason":"",
+                                  "WarningModerator":""
+                              }
+                          }
+                      },
+                      "DiscordId2": {
+                        "UserId":"0000",
+                        "UserWarnings": {
+                            "1": {
+                                "WarningId":"1",
+                                "WarningReason":"",
+                                "WarningModerator":""
+                            }
+                        }
+
+                    }
+                  }
+              }
+          }
+        }
+    }
+}
